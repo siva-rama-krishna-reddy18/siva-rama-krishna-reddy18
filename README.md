@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Siva Rama Krishna Reddy Kunchala</h1>
+<h1 align="center">Hi, I'm Siva Rama Krishna Reddy Kunchala</h1>
 <h3 align="center">AI Engineer</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - 🌩️ Passionate about **Cloud technologies**, especially **Amazon Web Services**
 - 🤖 Building **AI-powered apps** with **FastAPI, React, and LLMs (RAG, Groq, LangChain)**
 - 🌱 Currently sharpening my skills in **Python, Terraform, SQL, and DevOps**
