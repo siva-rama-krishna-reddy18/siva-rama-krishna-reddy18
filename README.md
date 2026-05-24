@@ -47,11 +47,4 @@ A few projects I'm proud of and actively working on:
 
 ---
 
-## GitHub Stats
-
-![Siva's GitHub stats](https://github-readme-stats.vercel.app/api?username=siva-rama-krishna-reddy18&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siva-rama-krishna-reddy18&layout=compact&theme=tokyonight)
-
----
-
 If any of my projects look interesting or useful to you, feel free to explore the repositories, leave a star, or reach out. I'm always happy to chat about AI, cloud, and building things on the web.
